@@ -1,7 +1,7 @@
 {
   "name": "tds",
   "version": "1.0.0",
-  "description": "",
+  "description": "App for learn DevOps",
   "main": "api_rest.js",
   "dependencies": {
     "abbrev": "^1.1.1",
@@ -185,7 +185,7 @@
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "Héctor Preciado <hprecva@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "@eslint/js": "^9.12.0",
