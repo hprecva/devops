@@ -93,7 +93,7 @@ app.delete('/anime/:id', (req, res) => {
 });
 
 // Iniciar el servidor
-const PORT = 8080;
+const PORT = 3000;
 app.listen(PORT, () => {
     console.log(`Servidor corriendo en http://localhost:${PORT}`);
 });
